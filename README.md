@@ -28,9 +28,12 @@ Operators can add or edit code using GUI tools. Each tool should have a pre-proc
    - A subwindow of the main window to define the models that will be tested.
 
 3. **Settings**
-   - select models.
-   - operator should be able to add new models cia + sign.
-   - import .py files for pre-processing, processing and post-processing
-   - select input data directory for the first model
-   - select input and output data directory for each model
-   - 
+   - Select models.
+   - Operator should be able to add new models cia + sign.
+   - Import .py files for pre-processing, processing and post-processing.
+   - Select input data directory for the first model.
+   - Select input and output data directory for each model.
+4. **log file for each model**
+5. **log file for output of each model**
+6. **log viewer window**
+7. ...
